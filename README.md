@@ -1,1 +1,1 @@
-# ALPR-Automatic-license-plate-reconigtion-by-YOLO
+# ALPD-Automatic-license-plate-detection-by-YOLO
